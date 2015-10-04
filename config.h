@@ -4,10 +4,10 @@
 static bool topbar = true;                  /* -b  option; if False, dmenu appears at bottom */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-    "Sans:size=16.0",
-    "VL Gothic:size=16.0",
-    "WenQuanYi Micro Hei:size=16.0",
-    "monospace:size=16",
+    "Sans:size=10.5",
+    "VL Gothic:size=10.5",
+    "WenQuanYi Micro Hei:size=10.5",
+    "monospace:size=10.5",
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the elft of input field */
 static const char *normbgcolor = "#222222"; /* -nb option; normal background                 */
